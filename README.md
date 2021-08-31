@@ -1,1 +1,4 @@
-# 09_Illumination
+# Graphics_Engine
+
+To Run:
+python main.py
